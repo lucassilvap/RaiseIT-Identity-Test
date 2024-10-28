@@ -13,5 +13,12 @@ um pokemon detalhado por nome.
 
 <h3> Como rodar a aplicação ? </h3>
 
+<ul>
+
+
+  <li>teste</li>
+  <li>teste2</li>
+</ul>
+
 
 
