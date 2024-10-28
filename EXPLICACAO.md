@@ -20,6 +20,7 @@ um pokemon detalhado por nome.
 <h3>Detalhes da aplicação rodando </h3>
 
 <h5>Retorrno da lista de pokemon com imc sem categoria</h5>
+
 ![BuscarPokemonComImcSemCategoria](https://github.com/user-attachments/assets/d5fc788c-b4b4-4bf8-ae17-11e99a938e8b)
 
 <h5>Retorno de um pokemon buscado por nome </h5>
