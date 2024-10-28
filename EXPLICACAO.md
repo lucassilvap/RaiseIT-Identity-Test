@@ -14,7 +14,7 @@ um pokemon detalhado por nome.
 <h4>Versão node utilizada: v16.20.2 </h4>
 <ul>
   <li> 1-> Use o comando git clone junto a esse link git@github.com:lucassilvap/RaiseIT-Identity-Test.git para clonar o projeto </li>
-  <li> 2 -> Após clonar o projeto use o comando npm install estando dentro da pasta principal do projeto para instalar as dependências do projeto </li>
+  <li> 2 -> Após clonar o projeto use o comando npm install estando dentro da pasta principal do projeto para instalar as dependências </li>
   <li> 3 -> Então entre em src e rode o comando node --loader ts-node/esm --experimental-specifier-resolution=node server.ts parar iniciar o server</li>
 </ul>
 
