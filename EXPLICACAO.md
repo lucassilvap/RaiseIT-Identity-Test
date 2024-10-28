@@ -11,6 +11,7 @@ Já no pokemonsRoutes estão os endpoints da aplicação. Há o /pokemon que ret
 um pokemon detalhado por nome.
 
 <h3> Como rodar a aplicação ? </h3>
+<h4>Versão node utilizada: v16.20.2 </h4>
 <ul>
   <li> 1-> Use o comando git clone junto a esse link git@github.com:lucassilvap/RaiseIT-Identity-Test.git para clonar o projeto </li>
   <li> 2 -> Após clonar o projeto use o comando npm install estando dentro da pasta principal do projeto </li>
