@@ -17,5 +17,7 @@ um pokemon detalhado por nome.
   <li> 3 -> Então entre em src e rode o comando node --loader ts-node/esm --experimental-specifier-resolution=node server.ts parar iniciar o server</li>
 </ul>
 
+<h3>Detalhes da aplicação rodando </h3>
+
 
 
