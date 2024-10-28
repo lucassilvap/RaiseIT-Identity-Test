@@ -21,8 +21,10 @@ um pokemon detalhado por nome.
 
 <h5>Retorrno da lista de pokemon com imc sem categoria</h5>
 ![BuscarPokemonComImcSemCategoria](https://github.com/user-attachments/assets/d5fc788c-b4b4-4bf8-ae17-11e99a938e8b)
+
 <h5>Retorno de um pokemon buscado por nome </h5>
 ![buscarPokemonPorNome](https://github.com/user-attachments/assets/5c46f226-3021-4ceb-8018-3db0e2908c70)
+
 <h5>Retorno da lista de pokemom com imc e com categoria do imc</h5>
 ![BuscarPokemonsComCategoriaEIMC](https://github.com/user-attachments/assets/27dc2983-70d4-443d-8da4-e4abf493f248)
 
