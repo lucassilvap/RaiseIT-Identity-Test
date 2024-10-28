@@ -10,12 +10,11 @@ Na parte do server foi utilizado o express pra que foi utilizado para a criaçã
 Já no pokemonsRoutes estão os endpoints da aplicação. Há o /pokemon que retorna uma lista de pokemon, também o /pokemons que retorna a mesma lista de pokemons com adição da categoria e por ultimo /pokemons/:name que busca 
 um pokemon detalhado por nome.
 
-
 <h3> Como rodar a aplicação ? </h3>
-
 <ul>
-  <li>1->Use o comando git clone junto com o projeto git@github.com:lucassilvap/RaiseIT-Identity-Test.git </li>
-  <li>teste2</li>
+  <li> 1-> Use o comando git clone junto com o projeto git@github.com:lucassilvap/RaiseIT-Identity-Test.git </li>
+  <li> 2 -> Após clonar o projeto use o comando npm install estando dentro da pasta do projeto </li>
+  <li> 3 -> Então entre em src e rode o comando node --loader ts-node/esm --experimental-specifier-resolution=node server.ts parar iniciar o server</li>
 </ul>
 
 
